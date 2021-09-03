@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Mariana Duarte Afonso
+## Oiii! Eu sou a Mariana Duarte Afonso 💟
  <div>
   <a href="https://github.com/mdafonso">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mdafonso&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
